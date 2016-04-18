@@ -1,5 +1,5 @@
 {
-  "name": "solder/chatwork",
+  "name": "taksolder/chatwork",
   "description": "Chatwork API client",
   "keywords": ["chatwork"],
   "license": "MIT",
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Solder\\Chatwork\\": "src"
+      "TakSolder\\Chatwork\\": "src"
     }
   }
 }

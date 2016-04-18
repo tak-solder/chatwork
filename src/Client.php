@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Solder\Chatwork;
+namespace TakSolder\Chatwork;
 
 /**
  * APIに接続するためのクライアント
  * Class Client
- * @package Solder\Chatwork
+ * @package TakSolder\Chatwork
  */
 class Client
 {
