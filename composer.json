@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Solder\\Chatwork\\": "src"
+      "TakSolder\\Chatwork\\": "src"
     }
   }
 }

@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Solder\Chatwork;
+namespace TakSolder\Chatwork;
 
 /**
  * ChatworkAPIの例外
  * Class ChatworkException
- * @package Solder\Chatwork
+ * @package TakSolder\Chatwork
  */
 class ChatworkException extends \Exception {}
