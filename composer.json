@@ -1,0 +1,20 @@
+{
+  "name": "solder/chatwork",
+  "description": "Chatwork API client",
+  "keywords": ["chatwork"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tak-solder",
+      "email": "tak.solder@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Solder\\Chatwork\\": "src"
+    }
+  }
+}
