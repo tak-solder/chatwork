@@ -25,7 +25,7 @@ class Client
      * エンドポイントのベースURL
      * @var string
      */
-    private $baseUri = 'https://api.chatwork.com/v1';
+    private $baseUri = 'https://api.chatwork.com/v2';
 
     private $limit = [
         'limit' => -1,
