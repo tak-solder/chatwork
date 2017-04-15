@@ -16,7 +16,7 @@ composer require taksolder/chatwork
 インスタンス生成時にAPIトークンを指定してください。
 
 ```php
-$chatwork = new Chatwork('YOUR_CHATWORK_API_TOKEN');
+$chatwork = new \TakSolder\Chatwork\Chatwork('YOUR_CHATWORK_API_TOKEN');
 
 $chatwork->me(); // https://api.chatwork.com/v1/me
 ```
@@ -33,4 +33,4 @@ $chatwork->me(); // https://api.chatwork.com/v1/me
 
 ## その他
 
-近々、大幅アップデート予定です。
+近々、大幅アップデートを検討中です
